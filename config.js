@@ -11,14 +11,14 @@
 // thank you to ALL Bot creator
 // and thanks you to who support my Bot
 
-gc1 = 'bit.ly/officialgrupkanaobot'
+gc1 = ''
 gc2 = ''
 gc3 = ''
-global.linkGC = ['bit.ly/officialgrupkyurabot'] // ganti jadi group lu
-global.owner = ['6281998903280'] // Put your number here //owner eval
-global.kontak = ['6281998903280'] //Ketika ada yang ngetik #owner
-global.mods = ['6281998903280'] // Want some help?
-global.prems = ['6281998903280'] // Premium user has unlimited limit
+global.linkGC = [''] // ganti jadi group lu
+global.owner = ['6285798070794'] // Put your number here //owner eval
+global.kontak = ['62857980707940'] //Ketika ada yang ngetik #owner
+global.mods = ['62857980707940'] // Want some help?
+global.prems = ['6257980707940'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com', 
@@ -45,23 +45,23 @@ lolkey = 'RFK-Rey'
 zekskey = 'apivinz'
 xteamkey = '057f32b5931c3bce'
 //xteam     KYURABOT
-namaig = 'bit.ly/instagramkyura'
-namagithub = 'bit.ly/githubkyura'
+namaig = ''
+namagithub = ''
 kasihcaption = `Nihh...`
-namakontak1 = 'Kyura'
-namakontak2 = 'Ardhi'
+namakontak1 = 'sylvia adrastea'
+namakontak2 = 'owner ViaaBot'
 
 //kasihcaption = `Nih Kak`
 
 // Sticker WM
-global.packname = 'From' // ganti aja
-global.author = 'KyuraBOT' // ganti aja
+global.packname = 'random' // ganti aja
+global.author = 'ViaaBot' // ganti aja
 
 //yyy
-bc = 'KanaoBOT' //RFK Broadcast
-footer = '\n©Kyura'
-namabot = 'KanaoBOT'
-namalu = 'Kyura'
+bc = 'ViaaBot' //RFK Broadcast
+footer = '\n©sylvia adrastea'
+namabot = 'ViaaBot'
+namalu = 'Sylvia Adrastea'
 
 
 // 
